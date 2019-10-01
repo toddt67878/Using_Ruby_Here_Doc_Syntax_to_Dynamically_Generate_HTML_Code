@@ -1,0 +1,1 @@
+# Using_Ruby_Here_Doc_Syntax_to_Dynamically_Generate_HTML_Code
